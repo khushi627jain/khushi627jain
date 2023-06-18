@@ -31,7 +31,7 @@ I'm a passionate full-stack web developer 🕸️ with expertise in front-end an
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **deepshikha2764@gmail.com**
 
-- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have keen interest in ART & CRAFT**
+- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in ART & CRAFT**
 <p style="margin-top:80px">
 
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
@@ -40,7 +40,7 @@ I'm a passionate full-stack web developer 🕸️ with expertise in front-end an
 <a href = "https://www.linkedin.com/in/deepshikha-jain-936640256/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:deepshikha2764@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
 <a href="https://api.whatsapp.com/send?phone=9057589580"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
-<a href="https://www.instagram.com/khushi_jain627/"><img style="margin-left:-14px" width=90px height=45px src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo-768x432.png"></a>
+<a href="https://www.instagram.com/khushi_jain627/"><img style="margin-left:-14px" width=90px height=45px src="[https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo-768x432.png](https://www.nicepng.com/png/detail/30-305122_new-instagram-logo-png-transparent-background.png)"></a>
 
 
 </div>
@@ -52,7 +52,7 @@ I'm a passionate full-stack web developer 🕸️ with expertise in front-end an
 
 
 
-<p style="color:#fa4a6f;font-size:35px;text-align:center">🚀 Language and Tools</p>
+<h1 style="color:#fa4a6f;font-size:35px;text-align:center">🚀 Language and Tools</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:20px"/>
