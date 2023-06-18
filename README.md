@@ -1,8 +1,8 @@
 
 
-
-<h1 align="center" style="color:#fde1e8">Hello Developers ,here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Deepshikha/></h1>
-
+<p align="center" style="color:#fde1e8;font-size:35px">Hello Developers ,here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Deepshikha/></p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br></br>
 <h4 align="center">
 I'm a passionate full stack web developer 🕸️ with expertise in front-end and back-end technologies 💡. 
     Experienced in developing user-friendly interfaces 🫂 and collaborating in cross-functional teams.
@@ -17,8 +17,9 @@ I'm a passionate full stack web developer 🕸️ with expertise in front-end an
 <img width="100px" height="30px"  src="https://img.shields.io/badge/N-Node-green"/>
 <img width="100px" height="30px" src="https://img.shields.io/badge/JS-Javascript-brown"/>
 </p>
-<br/>
-<img align="right" alt="coding" width="400" style="margin-left:30px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/><br/>
+<img align="right" alt="coding" width="550" style="margin-left:30px" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
 <h2> ##  🙋‍♀️  About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px height = 25px> </h2>    
 
 
@@ -31,20 +32,28 @@ I'm a passionate full stack web developer 🕸️ with expertise in front-end an
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **deepshikha2764@gmail.com**
 
 - <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have keen interest in ART & CRAFT**
-<p style="margin-top:120px">
+<p style="margin-top:80px">
 
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
-<p align="left">
 
+<div style="display:flex;gap:20px">
 <a href = "https://www.linkedin.com/in/deepshikha-jain-936640256/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<a href="mailto:deepshikha2764@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
+<a href="https://api.whatsapp.com/send?phone=9057589580"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
+<a href="https://www.instagram.com/khushi_jain627/"><img style="margin-left:-14px" width=90px height=45px src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo-768x432.png"></a>
+
+
+</div>
+
     
 
 
-<p style="margin-top:120px">
+<p style="margin-top:30px">
 
 
-<h1 align="center" style="color:#fa4a6f">🚀 Language and Tools</h1>
+
+<p style="color:#fa4a6f;font-size:35px;text-align:center">🚀 Language and Tools</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:20px"/>
     <img src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:50px"/> 
@@ -66,22 +75,27 @@ I'm a passionate full stack web developer 🕸️ with expertise in front-end an
 
 <p align="center">
     <a href="https://github.com/Khushi627jain/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="deepshikha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi627jain&theme=black-ice&hide_border=false&stroke=0000&background=#122722"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="deepshikha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi627jain&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    
-
-
-<br/>
-<br/>
-
-<!-- <a href="https://github.com/KhushiJain627/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=Khushi627jain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-
+ 
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi627jain&theme=2077">
+  </div>
+  <div style="display: flex; justify-content: space-around; width: 100%;margin:20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi627jain&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushi627jain&theme=2077">
+  </div>
+  <div style="display: flex; justify-content: space-around;  width: 100%;margin:20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi627jain&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushi627jain&theme=2077&utcOffset=8">
+  </div>
+</div>
 
 
 
