@@ -40,7 +40,7 @@ I'm a passionate full-stack web developer 🕸️ with expertise in front-end an
 <a href = "https://www.linkedin.com/in/deepshikha-jain-936640256/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:deepshikha2764@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
 <a href="https://api.whatsapp.com/send?phone=9057589580"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
-<a href="https://www.instagram.com/khushi_jain627/"><img style="margin-left:-14px" width=60px height=40px src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png"></a>
+<a href="https://www.instagram.com/khushi_jain627/"><img style="margin-left:-14px" width=50px height=40px src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png"></a>
 
 
 </div>
