@@ -1,8 +1,8 @@
 
 
 <h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers ,here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Deepshikha/></h1>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br></br>
+<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
 <h4 align="center">
 I'm a passionate full-stack web developer 🕸️ with expertise in front-end and back-end technologies 💡. 
     Experienced in developing user-friendly interfaces 🫂 and collaborating in cross-functional teams.
