@@ -7,7 +7,7 @@
 I'm a passionate full-stack web developer 🕸️ with expertise in front-end and back-end technologies 💡. 
     Experienced in developing user-friendly interfaces 🫂 and collaborating in cross-functional teams.
     I love to explore new technologies and use them to solve real-life problems 🤓 .
-    Always excited 😎 to take on new challenges and willing to make myself more productive each day ✨✨,
+    Always excited 😎 to take on new challenges and willing to make myself more productive each day ✨✨
     </h4>
 <p align= "center" style="margin-top:30px">
 <img width="100px" height="30px" src="https://img.shields.io/badge/M-MongoDB-pink"/>
@@ -16,6 +16,7 @@ I'm a passionate full-stack web developer 🕸️ with expertise in front-end an
     <img width="100px" height="30px"  src="https://img.shields.io/badge/R-Redux-blue"/>
 <img width="100px" height="30px"  src="https://img.shields.io/badge/N-Node-green"/>
 <img width="100px" height="30px" src="https://img.shields.io/badge/JS-Javascript-brown"/>
+    <img width="100px" height="30px" src="https://img.shields.io/badge/JS-Java-orange"/>
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/><br/>
@@ -27,7 +28,7 @@ I'm a passionate full-stack web developer 🕸️ with expertise in front-end an
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/woman-dancing_1f483.png"> I’m looking to collaborate on **OpenSource Projects**
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **[My Portfolio](https://my-portfolio-Khushi627jain.vercel.app/)**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **[My Portfolio](https://khushi627jain.github.io/)**
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **deepshikha2764@gmail.com**
 
