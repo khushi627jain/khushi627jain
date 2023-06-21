@@ -29,7 +29,7 @@ I'm a passionate full-stack web developer 🕸️ with expertise in front-end an
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/woman-dancing_1f483.png"> I’m looking to collaborate on **OpenSource Projects**
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **[My Portfolio](https://khushi627jain.github.io)**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at [Portfolio](https://khushi627jain.github.io)
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **deepshikha2764@gmail.com**
 
